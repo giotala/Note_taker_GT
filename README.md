@@ -10,3 +10,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Business Context
 
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
+
+## Links
+
+[Heroku](https://signup.heroku.com/)
+
+[demonstration](https://drive.google.com/file/d/1P8G0B6OJQCo3eodEaYDtN5flZ8jeNfCv/view/)
+
+[Photo](images\note_taker_GT.PNG)
