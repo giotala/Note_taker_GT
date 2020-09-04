@@ -11,9 +11,17 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
-## Links
+## Acceptance Criteria
 
-[Heroku](https://signup.heroku.com/)
+Application should allow users to create and save notes.
+
+Application should allow users to view previously saved notes.
+
+Application should allow users to delete previously saved notes.
+
+## Links
+<!-- not sure how to change name of app -->
+[Heroku](https://limitless-inlet-54916.herokuapp.com/)
 
 [demonstration](https://drive.google.com/file/d/1P8G0B6OJQCo3eodEaYDtN5flZ8jeNfCv/view/)
 
